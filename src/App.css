@@ -1,0 +1,60 @@
+.navbarText {
+    color: white;
+    /*text-align: center;*/
+    padding-left: 20px;
+    padding-right: 20px;
+    z-index: 9;
+}
+
+.titleButton {
+    margin: 5px;
+}
+
+.selected {
+    background-color: lightgray;
+}
+
+.notSelected {
+    background-color: inherit;
+}
+
+.container {
+    padding-top: 60px;
+}
+
+.table-fix {
+    table-layout: fixed;
+
+}
+
+.resize-button {
+    display: table-cell;
+    vertical-align: bottom;
+    text-align: center;
+    /*background-color: #fff6cc;*/
+    color: #79bc87;
+    width: 20px;
+    border: none;
+    cursor: col-resize;
+    padding-top: 10px;
+    /*float: right;*/
+}
+
+.col-hd {
+    padding: 0;
+    white-space: nowrap;
+}
+.text-view{
+    width: inherit;
+    overflow-x: hidden;
+    word-wrap: break-word;
+    padding: 5px;
+    margin: 0px;
+}
+.avatar{
+    height:60px;
+    width: 60px;
+    margin: 0;
+    border-radius: 50%;
+}
+
