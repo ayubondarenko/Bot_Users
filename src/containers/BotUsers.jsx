@@ -78,7 +78,7 @@ class BotUsers extends Component {
                                 <h3>
                                 <span class="glyphicon glyphicon-user"
                                       style={{paddingRight: '20px'}}></span>
-                                    Robot's users
+                                    Bot's users
                                 </h3>
                             </div>
                         </nav>
