@@ -8,6 +8,6 @@ In terminal go to [project folder]
 
 2: npm run build
 
-3: npm start
+3: npm run server
 
 4: open in browser http://localhost:3004
